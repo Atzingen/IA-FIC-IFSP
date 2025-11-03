@@ -1,3 +1,14 @@
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.txt
+*.onnx
+Aula_08/yolo_mnist/digital-number*
+Aula_08/yolo_mnist/.env
+
+
+
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
