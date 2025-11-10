@@ -4,9 +4,14 @@
 *.gif
 *.txt
 *.onnx
+*.pt
+*.cache
+
 Aula_08/yolo_mnist/digital-number*
 Aula_08/yolo_mnist/.env
-
+Aula_09/datasets/*
+Aula_09/runs/*
+datasets/*
 
 
 .DS_Store
